@@ -7,13 +7,14 @@ ChatGPT/GPT-3-based Aspect-Based Sentiment Analysis
 ## Citation
 
 If you use our work, please cite it using the following BibTeX entry:
-
+```
 @inproceedings{01GZ6W6RDMEVXZRJXV4NFJGG9D,
-  author       = {{Martens, Gunther and De Greve, Lore}},
-  booktitle    = {{DH Benelux 2023}},
-  keywords     = {{chatgpt,LLM,sentiment mining,artificial intelligence,literary criticism,German studies,annotation}},
-  language     = {{eng}},
-  title        = {{Annotation via LLM (Large Language Models) in Digital Literary Studies: beating (about) the bots?}},
-  url          = {{http://hdl.handle.net/1854/LU-01GZ6W6RDMEVXZRJXV4NFJGG9D}},
-  year         = {{2023}},
+  author = {Martens, Gunther and De Greve, Lore},
+  title = {Annotation via LLM (Large Language Models) in Digital Literary Studies: beating (about) the bots?},
+  booktitle = {DH Benelux 2023},
+  year = {2023},
+  url = {http://hdl.handle.net/1854/LU-01GZ6W6RDMEVXZRJXV4NFJGG9D},
+  keywords = {chatgpt, LLM, sentiment mining, artificial intelligence, literary criticism, German studies, annotation},
+  language = {eng},
 }
+```
