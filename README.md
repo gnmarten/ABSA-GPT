@@ -3,6 +3,11 @@
 This repository accompanies our paper to be presented at DH Benelux 2023, where we compare the performance of BERT Transformers and LLM (Large Language Models) in doing Aspect-Category-Opinion-Sentiment Quadruple Extraction. The example prompt is for aspect-based sentiment analyses (ABSA) in the domain of literary criticism, but can be adjusted ad lib. 
 
 ChatGPT/GPT-3-based Aspect-Based Sentiment Analysis
+## Usage
+
+analysis_davinci.ipynb --> download https://github.com/mpangrazzi/absa_poc_pipeline and merge (prompt in gpt3.py)
+
+openai_api_gpt-3.5-turbo_absa_def.ipynb --> standalone (prompts in notebook)
 
 ## Citation
 
