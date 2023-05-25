@@ -9,6 +9,10 @@ analysis_davinci.ipynb --> download https://github.com/mpangrazzi/absa_poc_pipel
 
 openai_api_gpt-3.5-turbo_absa_def.ipynb --> standalone (prompts in notebook)
 
+## Related work
+
+Scikit-LLM: Sklearn Meets Large Language Models: https://github.com/iryna-kondr/scikit-llm (more elegant prompts for multiclass labels, but less hackeable)
+
 ## Citation
 
 If you use our work, please cite it using the following BibTeX entry:
