@@ -30,3 +30,6 @@ If you use our work, please cite it using the following BibTeX entry:
   language = {eng},
 }
 ```
+## Credits
+
+This repository borrows from https://github.com/mpangrazzi/absa_poc_pipeline. Pangrazzi published his proof of concept for doing ABSA via gpt-3 on Sep 9, 2022, prior to the actual public release of ChatGPT, go figure!
